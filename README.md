@@ -1,1 +1,3 @@
-# basic-html-iplookup
+````sh
+This is for educational purposes only!
+````

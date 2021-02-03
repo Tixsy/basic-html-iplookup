@@ -1,0 +1,81 @@
+body {
+    font-size: 32px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+form {
+    width: 30%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 42;
+}
+
+.UserInput {
+    font-size: 42px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+button {
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border: 0.1em solid #FFFFFF;
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    text-align: center;
+    transition: all 0.2s;
+    font-size: 42px;
+    background: black;
+    margin-top: 10px;
+}
+
+button:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.Country {
+    color: green;
+    font-size: 42px;
+}
+
+.City {
+    color: green;
+    font-size: 42px;
+}
+
+.error {
+    color: green;
+    font-size: 42px;
+}
+
+.Isp {
+    color: green;
+    font-size: 42px;
+}
+
+.Lat {
+    color: green;
+    font-size: 42px;
+}
+
+.Lon {
+    color: green;
+    font-size: 42px;
+}
+
+.Zip {
+    color: green;
+    font-size: 42px;
+}
